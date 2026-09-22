@@ -1,9 +1,9 @@
 # Fundamentos 1: Variáveis e tipos de dados
 
-nome = "Maria"
-idade = 25
-altura = 1.68
-estudante = True
+nome = "Darlan"
+idade = 30
+altura = 1.75
+estudante = False
 
 print(nome, type(nome))
 print(idade, type(idade))
